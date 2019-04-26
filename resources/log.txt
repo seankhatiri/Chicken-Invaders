@@ -1,0 +1,4285 @@
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
+LocationOfRocket: : 9330
+TypeOfSpacecraft:multiplxe
+ColorOfShoot:RED
+TypeOfShoot:null
+NameOfPlayer:amin seyyedzadeh
